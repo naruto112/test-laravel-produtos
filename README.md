@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 A APi do produto deve ser acessa na seguinte URL:
 
 ```js
-http://127.0.0.1:8000/api/produtos/1
+http://127.0.0.1:8000/api/produtos/{id}
 ```
 
 ### Print Screen 🕺🏻
