@@ -16,7 +16,7 @@ Esse código tem por fundamento a criar um CRUD para Produtos:
 -   Alterar produto.
 -   Salvar Produto.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Construção de front-end foi desenvolvido sem nenhum framework, apenas com boas práticas de UI e UIX 💅
 
 ## APi do Produto 🥊
 
