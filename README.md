@@ -23,8 +23,10 @@ Construção de front-end foi desenvolvido sem nenhum framework, apenas com boas
 A APi do produto deve ser acessa na seguinte URL:
 
 ```js
-http://127.0.0.1:8000/api/produtos/{id}
+http://127.0.0.1:8000/api/produtos/{page}
 ```
+
+OBS: no lugar da {page} mencione um número para que ele exibe de forma paginação.
 
 ### Print Screen 🕺🏻
 
