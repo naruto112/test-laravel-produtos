@@ -9,7 +9,7 @@
 
 ## Sobre o teste 🚀
 
-Esse código tem por fundamento a criar um CRUD para Produtos:
+Esse código tem por função criar um CRUD para Produtos:
 
 -   Exibir produto.
 -   Criar produto.
